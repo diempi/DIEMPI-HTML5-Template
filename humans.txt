@@ -1,0 +1,18 @@
+/* TEAM */
+    Developer: Didier A.E. Gabiam
+    Site: http://www.diempi.be
+    Twitter: @imdiempi
+    Location: Liege, Belgium 
+
+/* THANKS */
+
+
+/* SITE */
+    Last update: 
+    Language:
+    Doctype: HTML5 
+    IDE:
+
+/* TECHNOLOGY COLOPHON */
+    HTML5, CSS3
+    jQuery, Modernizr
